@@ -1,0 +1,7 @@
+1. Always open the web app by opening starthere.html.
+
+2. After opening 3 choices will be made (easy, medium and difficult). User has to choose 1 option.
+
+3. This web app is simply based on basic HTML, CSS and Javascript only, no framework had been used in the creation of this basic app.
+
+4. Created by Vaibhav Solanki.
